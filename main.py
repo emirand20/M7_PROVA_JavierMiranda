@@ -1,5 +1,2 @@
-import pandas as pd
-
-df = pd.read_csv('Llistat.csv')
-deleteNan = df.dropna()
-print(deleteNan)
+import matplotlib.pyplot as plt
+import ex1 as a  
